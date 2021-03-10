@@ -4,9 +4,9 @@
 
 В результате тестирования выявлены следующие дефекты:
 1. Валидные ключи
-5289007762040690
+https://github.com/Lexx-Psi/Lec1.1-HW2-CreditCardNumberValidator/issues/1#issue-827612577
 2. Невалидные ключи
-5289000481398957
+https://github.com/Lexx-Psi/Lec1.1-HW2-CreditCardNumberValidator/issues/2#issue-827615819
 
 В процессе тестирования использовались следующие артефакты:
 Баг репорт
